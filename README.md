@@ -1,2 +1,3 @@
-# e-commerce-webiste-plain-php
-E-commerce website developed with plain PHP (Old school project).
+# PHP E-Commerce with Admin
+
+> A simple e-commerce website built with plain PHP, including a storefront and an admin back-office for managing products.
